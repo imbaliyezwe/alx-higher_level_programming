@@ -1,0 +1,1 @@
+Objects, Scoprs adn Closures
